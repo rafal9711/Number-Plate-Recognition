@@ -1,8 +1,6 @@
-# Number-Plate-Recognition
-
-Project was made for Computer Vision classes.
 
 # Purpose of the project:
+Project was made for Computer Vision classes.
 The aim of the project was to write a license plate recognition program.
 
 # The photos were taken with a smartphone or a camera with the following assumptions:
