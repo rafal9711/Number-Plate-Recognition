@@ -1,6 +1,6 @@
 
 ## Purpose of the project:
-Project was made for Computer Vision classes.
+Project was made for Computer Vision classes. (template [here](https://github.com/PUTvision/ImageProcessingCourse/tree/master/project_template_2020)
 The aim of the project was to write a license plate recognition program.
 
 ## Project assumptions:
